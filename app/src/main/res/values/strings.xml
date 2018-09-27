@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GridViewExample</string>
+    <string-array name="dogs">
+        <item>Dog 0</item>
+        <item>Dog 1</item>
+        <item>Dog 2</item>
+        <item>Dog 3</item>
+        <item>Dog 4</item>
+        <item>Dog 5</item>
+        <item>Dog 6</item>
+        <item>Dog 7</item>
+        <item>Dog 0</item>
+        <item>Dog 1</item>
+        <item>Dog 2</item>
+        <item>Dog 3</item>
+        <item>Dog 4</item>
+        <item>Dog 5</item>
+        <item>Dog 6</item>
+        <item>Dog 7</item>
+    </string-array>
+</resources>
